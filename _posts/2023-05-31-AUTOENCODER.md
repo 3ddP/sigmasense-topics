@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Autoencoder-based Detection of Optimum Transmission Parameters in Ultrasound Imaging using Sparse Recovery"
-date: 2023-05-31 21:39
+date: 2023-05-31 21:38
 categories: topics
 ---
 
