@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Autoencoder"
-date: 2023-05-31 21:38
+date: 2023-05-31
 categories: topics
 ---
 
