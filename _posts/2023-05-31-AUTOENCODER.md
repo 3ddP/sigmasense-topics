@@ -31,16 +31,3 @@ In this project, our ultimate aim is to develop and implement an autoencoder net
 #### Contact Information
 - M.Sc. Ozan Çakıroğlu
 - ozan.cakiroglu@izfp.fraunhofer.de
-
-
-
-
-
-```python
-
-```
-
-
-```python
-
-```
