@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Autoencoder-based Detection of Optimum Transmission Parameters in Ultrasound Imaging using Sparse Recovery"
+date: 2023-05-31 21:25
+categories: topics
+---
+
+<img src="/assets/images/measurement_area.png" alt= “” width="400" height="400" style="float: right;"> 
+
 <h1 style="text-align: center;">Autoencoder-based Detection of Optimum Transmission Parameters in Ultrasound Imaging using Sparse Recovery</h1>
 
 <br/><br/>
