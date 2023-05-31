@@ -4,7 +4,8 @@ title: "Autoencoder"
 date: 2023-05-31
 categories: topics
 ---
-
+![png]({{ site.baseurl }}/assets/images/measurement_area.png)
+<img alt= “” width="400" height="400" style="float: right;"> 
 <h1 style="text-align: center;">Autoencoder-based Detection of Optimum Transmission Parameters in Ultrasound Imaging using Sparse Recovery</h1>
 In the field of ultrasound imaging, our objective is to detect specific defects that are assumed to be distinct and occupy a relatively small area within the overall measurement area. By making this assumption, we can effectively utilize sparse signal recovery algorithms in the receiver to accurately identify the location of these defects. However, the accuracy of these algorithms can be significantly improved by minimizing the mutual coherence of the sensing matrix through conventional numerical optimization methods or by leveraging neural network techniques.
 
