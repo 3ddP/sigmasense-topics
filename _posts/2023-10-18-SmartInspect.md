@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internships or Research Projects at Fraunhofer IZFP Ilmenau"
+title: "3D-SmartInspect"
 date: 2023-10-18
 categories: topics
 published: true
@@ -13,7 +13,7 @@ Are you looking for an internship or a research project? Are you interested in u
 
 
 ## Laboratory: 3D- SmartInspect
-![png]({{ site.baseurl }}/assets/images/smartinspect.jpg){ width=50% }
+![png]({{ site.baseurl }}/assets/images/smartinspect.jpg)
 
 Ultrasound non-destructive testing (UNDT) is based on the process of transmitting ultrasound signals into an object under test, recording the reflected signals, and using them to learn about the internal structure of the object. Since the practical implementation of imaging and reconstruction algorithms involves large amounts of measurement data and necessitates great computational efforts, key questions arise, such as: How should the data be measured? How much data is needed to produce good reconstructions? How should the data be processed? During your time with us, you will have the opportunity to gain an understanding of ultrasound imaging systems through the practical application of different measurement schemes and image reconstruction methods on our 3D-SmartInspect measurement system.
 
