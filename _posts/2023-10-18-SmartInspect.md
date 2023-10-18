@@ -19,7 +19,7 @@ Ultrasound non-destructive testing (UNDT) is based on the process of transmittin
 
 3D-SmartInspect is an assistance system developed by Fraunhofer IZFP which is based on ultrasonic sensors. The system helps inspectors during manual inspection processes by providing interactive support. At the same time it enables automated documentation of inspection performance and the digital transfer of measurement data. 
 
-This is a valuable opportunity to gain more knowledge in signal processing and programming. You'll have the chance to acquire practical skills through your tasks and regular interactions with experts in our team. There is also the oppurtunity to work in our research group in the long term, e.g. HiWi contracts, bachelor/master theses.
+This is a valuable opportunity to gain more knowledge in signal processing and programming. You'll have the chance to acquire practical skills through your tasks and regular interactions with experts in our team. There is also the opportunity to work in our research group in the long term, e.g. HiWi contracts, bachelor/master theses.
 
 
 ### Pre-requisites
@@ -47,12 +47,12 @@ This is a valuable opportunity to gain more knowledge in signal processing and p
 
 
 ### Main Tasks
-* familiarising yourself with the 3D-SmartInspect system and handheld ultrasound measurements
+* familiarizing yourself with the 3D-SmartInspect system and handheld ultrasound measurements
 * collecting ultrasound measurement data with 3D-SmartInspect system
 * implementing and testing functionalities for the system, e.g.
-  * new reconsruction algorithms
+  * new reconstruction algorithms
   * unit tests
 * demonstrating the system at trade fairs and conferences 
 
 ### Team
-You'll be working in an international team of researchers and PhD students. The team is very open, friendly, and values collaboration. We are always open to questions, ideas, discussions, and feedback. You will have the oppurtunity to put your ideas and technical knowledge into practice by working with state-of-the-art ultrasound hardware.
+You'll be working in an international team of researchers and PhD students. The team is very open, friendly, and values collaboration. We are always open to questions, ideas, discussions, and feedback. You will have the opportunity to put your ideas and technical knowledge into practice by working with state-of-the-art ultrasound hardware.
