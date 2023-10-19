@@ -8,6 +8,8 @@ categories: topics
 - Type of project: WIP
 - Contact: cemil.emre.ardic@izfp.fraunhofer.de
 
+![image]({{ site.baseurl }}/assets/images/feature_extraction_neural_network.png)
+
 Embrace the future with Fraunhofer Institute.
 
 Explore, Experiment, Excel in Deep Learning!
