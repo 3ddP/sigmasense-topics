@@ -3,6 +3,7 @@ layout: post
 title: "Autoencoder-based Detection of Optimum Transmission Parameters in Ultrasound Imaging using Sparse Recovery"
 date: 2023-05-31
 categories: topics
+published: false
 ---
 
 - Type of project: WIP
