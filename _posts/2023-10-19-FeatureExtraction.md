@@ -5,7 +5,7 @@ date: 2023-10-18
 categories: topics
 ---
 
-- Type of project: WIP
+- Type of project: HiWi/Research Project 
 - Contact: cemil.emre.ardic@izfp.fraunhofer.de
 
 ![image]({{ site.baseurl }}/assets/images/feature_extraction_neural_network.png)

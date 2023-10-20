@@ -31,6 +31,9 @@ This is a valuable opportunity to gain more knowledge in signal processing and p
   * familiarity with some software development tools, such as Git or unittest
   * familiarity with ultrasound
 
+Alternatively:
+* Fresh students with fewer/none of the prerequisites can also be considered if they are willing to learn and collaborate with us over a longer time period.
+
 ### You will learn with us
 * Advanced ultrasound imaging
 * Python libraries for scientific data analysis, e.g. Numpy, SciPy Matplotlib, etc.
