@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comparison of diverse Orthogonal Excitation Schemes in Ultrasound Imaging using Sparse Recovery"
+title: "Comparison of Diverse Orthogonal Excitation Schemes in Ultrasound Imaging using Sparse Recovery"
 date: 2023-05-31
 categories: topics
 published: true
