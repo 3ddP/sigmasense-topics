@@ -6,7 +6,7 @@ categories: topics
 published: true
 ---
 
-- HiWi/Internship
+- Type of project: HiWi/Internship
 - Contact: ahmad.omira@izfp.fraunhofer.de
 
 Are you looking for an internship or a research project? Are you interested in ultrasound? Do you want to work with state-of-the-art ultrasound hardware? Do you want to work in a friendly and open team? Then you are at the right place!
