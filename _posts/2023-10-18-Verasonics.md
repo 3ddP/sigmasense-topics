@@ -6,7 +6,7 @@ categories: topics
 published: true
 ---
 
-- HiWi/Internship
+- Type of project: HiWi/Internship
 - Contact: eduardo.jose.perez.mejia@izfp.fraunhofer.de
 
 ## Laboratory: Verasonics
