@@ -1,6 +1,3 @@
----
-published: false
----
 (Studienordung 2021)
 
 | Program                  | Internship? | How long? |
