@@ -1,7 +1,5 @@
 ---
-layout: page
-title: List of relevant study programs at TUI
-permalink: /List of relevant study programs at TUI/
+published: false
 ---
 (Studienordung 2021)
 
