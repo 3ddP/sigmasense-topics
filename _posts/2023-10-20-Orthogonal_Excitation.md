@@ -6,7 +6,7 @@ categories: topics
 published: true
 ---
 
-- Type of project: WIP
+- Type of project: Research Project/Hauptseminar/Thesis (literature review + coding)
 - Contact: ozan.cakiroglu@izfp.fraunhofer.de
 
 ![image]({{ site.baseurl }}/assets/images/measurement_area.png)
