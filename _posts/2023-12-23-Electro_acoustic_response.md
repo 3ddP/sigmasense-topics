@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Detecting the Electro-Acoustic Impulse Response of Ultrasound Transducers"
-date: 2023-05-31
+date: 2023-12-23
 categories: topics
 published: true
 ---
