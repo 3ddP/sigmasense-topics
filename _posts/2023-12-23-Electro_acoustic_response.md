@@ -3,7 +3,7 @@ layout: post
 title: "Detecting the Electro-Acoustic Impulse Response of Ultrasound Transducers"
 date: 2023-05-31
 categories: topics
-published: false
+published: true
 ---
 
 - Type of project: WIP
