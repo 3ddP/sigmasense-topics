@@ -6,7 +6,7 @@ categories: topics
 published: true
 ---
 
-- Type of project: WIP
+- Type of project: HiWi/Research Project
 - Contact: ozan.cakiroglu@izfp.fraunhofer.de
 
 In pulse-echo ultrasound imaging, an essential factor to consider is the electro-acoustic properties of ultrasound transducers. These properties define how electrical signals, whether in the form of voltage or current, are converted into pressure waves. The effectiveness of this conversion process significantly influences the accuracy of ultrasound imaging. In this project, the task is to describe the electro-acoustic impulse response of the transducers during the transmission and recording process, ideally each of them separately. After obtaining the impulse response of the transducer during transmission, deconvolution techniques like Wiener deconvolution can be utilized to remove the effect of the electro-acoustic impulse response on the transmission.
