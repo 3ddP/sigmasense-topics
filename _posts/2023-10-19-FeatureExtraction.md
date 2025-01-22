@@ -3,6 +3,7 @@ layout: post
 title: "Working Student - Feature Extraction for Deep Learning Applications"
 date: 2023-10-18
 categories: topics
+published: False
 ---
 
 - Type of project: HiWi/Research Project 
