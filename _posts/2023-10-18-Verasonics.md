@@ -3,7 +3,7 @@ layout: post
 title: "Data Acquisition with State-of-the-Art Verasonics Hardware"
 date: 2023-10-18
 categories: topics
-published: true
+published: false
 ---
 
 - Type of project: HiWi/Internship
