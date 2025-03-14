@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comprehensive Survey of Anomaly Detection Methods for Thermography Data of Mechanical Parts
-date: 2025-03-15
+date: 2025-03-14
 categories: topics
 published: true
 ---
