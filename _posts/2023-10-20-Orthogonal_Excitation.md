@@ -28,7 +28,3 @@ In this research, our aim is to increase the spatial resolution of the ultrasoun
 * Solid knowledge in linear algebra and signal processing
 * Good knowledge in estimation theory, compressed sensing
 * Python programming
-
-#### Contact Information
-- M.Sc. Ozan Çakıroğlu
-- ozan.cakiroglu@izfp.fraunhofer.de
