@@ -1,28 +1,24 @@
 ---
 layout: post
-title: "Deep Learning-Based Optimal Compressed Sensing"
-date: 2023-06-02
+title: "Softmax Selection for Sampling Categorical Variables"
+date: 2025-03-10
 categories: topics
 published: true
 ---
 
 - Type of project: Research Project/Hauptseminar/Thesis (literature review + coding)
-- Contact: han.wang@izfp.fraunhofer.de
+- Contact: han.wang@tu-ilmenau.de
 
 ### Background
-Compressed sensing is a signal processing technique that allows the reconstruction of a sparse or compressible signal from a small number of acquired measurements, enabling efficient data acquisition directly during the measurement process. Compression matrices tailored to a specific task can offer better performance than random ones. Recently, softmax neural networks have been shown to provide a feasible approach for the design of compression matrices that perform subsampling, an otherwise difficult combinatorial problem.
+Categorical variables are fundamental in machine learning, representing discrete choices in tasks such as classification, structured prediction, and reinforcement learning. This project explores the use of softmax-based neural networks to optimize categorical sampling under predefined constraints. By investigating different softmax variants and selection strategies, students will gain insights into differentiable optimization, probabilistic modeling, and efficient decision-making in machine learning.
 
 ### Task
-- Literature research in frequency subsampling, deep unfoldings, and softmax neural networks
-- Design of a task-based softmax neural network architecture that learns subsampling matrices
-- Training and testing of the network when applied to frequency bin subsampling of synthetic ultrasound NDT data
+- Investigate softmax-based selection techniques and their applications in machine learning.
+- Develop and optimize a softmax-based sampling model, exploring temperature scaling and regularization strategies. 
+- Compare different selection methods and analyze their performance on synthetic and real-world datasets.
 
 
 ### Reference
-[1] Kirchhof, J. et al. Frequency Subsampling of Ultrasound Nondestructive Measurements: Acquisition, Reconstruction, and Performance. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 68.10 (2021): 3174-3191  
-[2] Diamantaras, K. et al. Sparse Antenna Array Design for MIMO Radar Using Softmax Selection. arXiv preprint arXiv:2102.05092 (2021).
+1. Goodfellow I, Bengio Y, Courville A, et al. Deep learning[M]. Cambridge: MIT press, 2016. (6.2.2.3 Softmax Units for Multinoulli Output Distributions)
+2. Jang E, Gu S, Poole B. Categorical Reparametrization with Gumble-Softmax[C]//International Conference on Learning Representations (ICLR 2017). OpenReview.net, 2017.
 
-
-### Supervisor
-- Dr. Ing. Florian Römer, M. Sc. Han Wang
-- Email: han.wang@izfp.fraunhofer.de
